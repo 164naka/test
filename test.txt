@@ -1,9 +1,3 @@
 test
 test
-<<<<<<< HEAD
-aa
-
-
-aa
-=======
->>>>>>> 93accdb5fa9099d62fcbbd0e111498a4fbe4dfd1
+aaaaaaaaaaaaa
